@@ -32,4 +32,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deployed on Vercel
 
 Project Link on Vercel:
-https://dental-ai1-o9qm-n2skpvcbf-krishnas-projects-860177c6.vercel.app
+dental-ai1-9f1r.vercel.app
